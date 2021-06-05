@@ -28,6 +28,19 @@ h2 {
     margin:0;
 }
 
+/* IMAGES */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h6 {
+    margin: 0;
+    margin-left: 25%;
+}
+
 /* ------------------------------ */
 
 /* ------------ BACKGROUND ------------*/
